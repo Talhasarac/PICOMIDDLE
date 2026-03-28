@@ -1,0 +1,24 @@
+CMakeFiles/pico_ble_keyboard.dir/Users/talha/pico/pico-sdk/lib/btstack/src/btstack_resample.c.o: \
+ /Users/talha/pico/pico-sdk/lib/btstack/src/btstack_resample.c \
+ /Users/talha/pico/pico-sdk/lib/btstack/src/btstack_bool.h \
+ /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/lib/gcc/arm-none-eabi/15.2.1/include/stdbool.h \
+ /Users/talha/pico/pico-sdk/lib/btstack/src/btstack_debug.h \
+ /Users/talha/picomiddle/firmware/btstack_config.h \
+ /Users/talha/pico/pico-sdk/lib/btstack/src/btstack_defines.h \
+ /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/lib/gcc/arm-none-eabi/15.2.1/include/stdint.h \
+ /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/arm-none-eabi/include/stdint.h \
+ /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/arm-none-eabi/include/machine/_default_types.h \
+ /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/arm-none-eabi/include/sys/features.h \
+ /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/arm-none-eabi/include/_newlib_version.h \
+ /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/arm-none-eabi/include/sys/_intsup.h \
+ /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/arm-none-eabi/include/sys/_stdint.h \
+ /Users/talha/pico/pico-sdk/lib/btstack/src/btstack_version.h \
+ /Users/talha/pico/pico-sdk/lib/btstack/src/btstack_linked_list.h \
+ /Users/talha/pico/pico-sdk/lib/btstack/src/hci_dump.h \
+ /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/lib/gcc/arm-none-eabi/15.2.1/include/stdarg.h \
+ /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/arm-none-eabi/include/assert.h \
+ /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/arm-none-eabi/include/_ansi.h \
+ /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/arm-none-eabi/include/newlib.h \
+ /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/arm-none-eabi/include/sys/config.h \
+ /Applications/ArmGNUToolchain/15.2.rel1/arm-none-eabi/arm-none-eabi/include/machine/ieeefp.h \
+ /Users/talha/pico/pico-sdk/lib/btstack/src/btstack_resample.h

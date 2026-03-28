@@ -1,0 +1,14 @@
+# Target labels
+ picotoolBuild
+# Source files and their labels
+/Users/talha/picomiddle/firmware/build/CMakeFiles/picotoolBuild
+/Users/talha/picomiddle/firmware/build/CMakeFiles/picotoolBuild.rule
+/Users/talha/picomiddle/firmware/build/CMakeFiles/picotoolBuild-complete.rule
+/Users/talha/picomiddle/firmware/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+/Users/talha/picomiddle/firmware/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+/Users/talha/picomiddle/firmware/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+/Users/talha/picomiddle/firmware/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+/Users/talha/picomiddle/firmware/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+/Users/talha/picomiddle/firmware/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+/Users/talha/picomiddle/firmware/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+/Users/talha/picomiddle/firmware/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule

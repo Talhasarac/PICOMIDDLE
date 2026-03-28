@@ -1,0 +1,7 @@
+/Users/talha/picomiddle/firmware/build/pioasm/CMakeFiles/pioasm.dir
+/Users/talha/picomiddle/firmware/build/pioasm/CMakeFiles/edit_cache.dir
+/Users/talha/picomiddle/firmware/build/pioasm/CMakeFiles/rebuild_cache.dir
+/Users/talha/picomiddle/firmware/build/pioasm/CMakeFiles/list_install_components.dir
+/Users/talha/picomiddle/firmware/build/pioasm/CMakeFiles/install.dir
+/Users/talha/picomiddle/firmware/build/pioasm/CMakeFiles/install/local.dir
+/Users/talha/picomiddle/firmware/build/pioasm/CMakeFiles/install/strip.dir

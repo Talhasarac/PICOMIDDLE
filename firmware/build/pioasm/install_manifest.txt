@@ -1,0 +1,5 @@
+/Users/talha/picomiddle/firmware/build/pioasm-install/pioasm/pioasm
+/Users/talha/picomiddle/firmware/build/pioasm-install/pioasm/pioasmTargets.cmake
+/Users/talha/picomiddle/firmware/build/pioasm-install/pioasm/pioasmTargets-release.cmake
+/Users/talha/picomiddle/firmware/build/pioasm-install/pioasm/pioasmConfig.cmake
+/Users/talha/picomiddle/firmware/build/pioasm-install/pioasm/pioasmConfigVersion.cmake

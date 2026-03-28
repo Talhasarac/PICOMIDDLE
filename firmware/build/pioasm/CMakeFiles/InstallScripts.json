@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/talha/picomiddle/firmware/build/pioasm/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
