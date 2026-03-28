@@ -7,8 +7,8 @@ Device name: `PicoKeyboard`
 Needs:
 1. Raspberry Pi Pico W
 2. Wired USB keyboard
-3. USB C to USB A adapter
-4. 5 V power
+3. Micro b otg cable
+4. 5 V power to vbus and grd of pcio 
 
 Build:
 
